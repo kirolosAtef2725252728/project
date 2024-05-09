@@ -1,0 +1,75 @@
+img {
+  max-width: 100%;
+}
+a {
+  color: #54237f;
+}
+nav {
+  background-color: #54237f;
+  color: #FFF;
+}
+/* Header */
+header {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  position: sticky;
+  top: 0;
+}
+.admin_link {
+  color: red;
+}
+.site_title img {
+  width: 50px;
+}
+.site_title {
+  font-size: 25px;
+  margin: 0;
+}
+.site_title {
+  color: #212529;
+  font-weight: bold;
+}
+.main_links {
+  font-weight: bold;
+  font-size: 18px;
+  margin-right: 20px;
+  text-decoration: none;
+}
+.left_header {
+  text-align: left;
+}
+
+
+/* Index page */
+.gif {
+  width: 300px;
+}
+section p {
+  text-align: justify;
+}
+.whyUs {
+  background-image: url(../img/bg-1.jpg);
+  color: #FFF;
+}
+.services ul {
+  list-style-type: disclosure-closed;
+}
+
+/* Footer */
+footer {
+  background-color: #52237f;
+  color: #FFF;
+  text-align: center;
+}
+
+/* Forms */
+.smallForm {
+  max-width: 320px;
+  margin: 30px auto;
+  padding: 30px;
+  background: #52237f;
+  color: #FFF;
+  border-radius: 15px;
+  text-align: center;
+}
+
